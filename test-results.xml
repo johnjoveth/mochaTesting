@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.016" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-10-02T08:05:38" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Access Website" timestamp="2019-10-02T08:05:38" tests="1" file="C:\Projects\DevOps\devsecops\testing\DSO\test.js" failures="0" time="0.016">
+    <testcase name="Access Website Should open the links" time="0.016" classname="Should open the links">
+    </testcase>
+  </testsuite>
+</testsuites>
